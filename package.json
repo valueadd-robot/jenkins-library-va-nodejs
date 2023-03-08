@@ -38,7 +38,7 @@
     "@angular/platform-browser-dynamic": "^9.0.0",
     "@angular/router": "^9.0.0",
     "@nestjs/common": "^6.11.6",
-    "@nestjs/core": "^6.11.6",
+    "@nestjs/core": "^9.0.5",
     "@nestjs/platform-express": "^6.11.6",
     "@nrwl/angular": "^9.0.0",
     "core-js": "^3.6.4",
